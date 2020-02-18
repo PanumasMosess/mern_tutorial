@@ -1,0 +1,16 @@
+.buttonStyle {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    /*optional*/
+    font-family: arial, sans-serif;
+    /*input has OS specific font-family*/
+    color: #33C3FF;
+    text-decoration: unset;
+    cursor: pointer;
+  }
+
+  .buttonStyle:hover {
+    background-color: #4CAF50; /* Green */
+    color: darkgrey;
+  }
